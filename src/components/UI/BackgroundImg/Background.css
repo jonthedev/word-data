@@ -1,0 +1,14 @@
+.bg {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: -1;
+  height: 254px;
+  width: 100%;
+  background-image: linear-gradient(
+      to right,
+      rgba(43, 31, 51, 0.1),
+      rgba(57, 71, 79, 0.1)
+    ),
+    url("https://images.unsplash.com/photo-1461958508236-9a742665a0d5?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+}
